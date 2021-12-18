@@ -12,7 +12,9 @@ const About = () => {
             <div className="about-inner">
                 <div className="about-left">
                     <img className="about-img" src="img/ekaterina.jpg"/>
-                    <button className="about-button">Хочешь</button>
+                    <a target="_blank" href="https://instagram.com/e.k.yabanzhi?utm_medium=copy_link">
+                        <button className="about-button">Хочешь</button>
+                    </a>
                 </div>
                 <div className="about-right">
                     <h3 className="about-right__name">

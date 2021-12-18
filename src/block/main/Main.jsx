@@ -23,7 +23,7 @@ const Main = () =>{
                     Такой информации, а точнее точки зрения на все,  вроде бы привычное, ты вряд-ли где услышишь.<div className=""></div>Время идет, жизнь меняется, и взгляд на роль женщины в мире так же стал другим. 
                     Неизменными остались только установки и их нужно менять.
                   </h3>
-                  <a href="https://www.instagram.com/direct/t/340282366841710300949128214710576725587">
+                  <a target="_blank" href="https://instagram.com/e.k.yabanzhi?utm_medium=copy_link">
                     <button className="main-button">Хочешь</button>
                   </a>
                 </div>
